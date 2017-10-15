@@ -1,5 +1,5 @@
 # Convolutional-Neutral-Network-Classifier-for-MNIST-dataset
-Built a Convolutional Neutral Network Classifier for MNIST dataset with accuracy higher than 99% after full-dataset training of 10,000 iterations
+Built a Convolutional Neutral Network Classifier for MNIST dataset with accuracy higher than 98% after full-dataset training of 10,000 iterations
 Results of the classrification is shown below. The output of one example from the first layer, second layer and third layer are also shown below.
 ![accuracy10000ite](https://user-images.githubusercontent.com/16688583/31586602-09bf18ce-b188-11e7-864d-2b99e342322f.jpg)
 ![trainaccuracy and testaccuracy](https://user-images.githubusercontent.com/16688583/31586603-09dc4b24-b188-11e7-94b8-ba9a34941953.jpg)
